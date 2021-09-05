@@ -13,32 +13,32 @@ Dotfiles for various desktops I made
 <details>
     <summary>Normal colors</summary>
 	
-  ```yml
+```yml
 normal:
-	black:   '0x171717'
-	red:     '0xd81765'
-	green:   '0x97d01a'
-	yellow:  '0xffa800'
-	blue:    '0x16b1fb'
-	magenta: '0xff2491'
-	cyan:    '0x0fdcb6'
-	white:   '0xebebeb'
-  ```
+    black:   '0x171717'
+    red:     '0xd81765'
+    green:   '0x97d01a'
+    yellow:  '0xffa800'
+    blue:    '0x16b1fb'
+    magenta: '0xff2491'
+    cyan:    '0x0fdcb6'
+    white:   '0xebebeb'
+```
 </details>
 
 <details>
     <summary>Bright colors</summary>
 
-  ```yml
+```yml
 bright:
-        black:   '0x38252c'
-	red:     '0xff0000'
-	green:   '0x76b639'
-	yellow:  '0xe1a126'
-	blue:    '0x289cd5'
-	magenta: '0xff2491'
-	cyan:    '0x0a9b81'
-	white:   '0xf8f8f8'
-  ```
+    black:   '0x38252c'
+    red:     '0xff0000'
+    green:   '0x76b639'
+    yellow:  '0xe1a126'
+    blue:    '0x289cd5'
+    magenta: '0xff2491'
+    cyan:    '0x0a9b81'
+    white:   '0xf8f8f8'
+```
 </details>
 
