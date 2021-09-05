@@ -26,3 +26,19 @@ normal:
   ```
 </details>
 
+<details>
+    <summary>Bright colors</summary>
+
+  ```yml
+bright:
+        black:   '0x38252c'
+	red:     '0xff0000'
+	green:   '0x76b639'
+	yellow:  '0xe1a126'
+	blue:    '0x289cd5'
+	magenta: '0xff2491'
+	cyan:    '0x0a9b81'
+	white:   '0xf8f8f8'
+  ```
+</details>
+
