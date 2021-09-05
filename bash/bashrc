@@ -1,0 +1,13 @@
+#
+# ~/.config/bash/bashrc
+#
+
+export XDG_CONFIG_HOME="$HOME/.config"
+
+# If not running interactively, don't do anything
+[[ $- != *i* ]] && return
+
+alias ls='ls --color=auto'
+PS1='[\u@\h \W]\$ '
+
+source "$XDG_CONFIG_HOME/bash/fancy-prompt.sh"
