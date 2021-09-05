@@ -10,6 +10,7 @@ Dotfiles for various desktops I made
 ### Alacritty Color scheme
 - **Background** = #191919
 - **Foreground** = $f8f8f8
+
 <details>
     <summary>Normal Colors</summary>
 
