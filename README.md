@@ -9,13 +9,12 @@ Dotfiles for various desktops I made
 
 ### Alacritty Color scheme
 - **Background** = #191919
-- **Foreground** = $f8f8f8
-
+- **Foreground** = #f8f8f8
 <details>
-    <summary>Normal Colors</summary>
-
-    ```yml
-    normal:
+    <summary>Normal colors</summary>
+	
+  ```yml
+normal:
 	black:   '0x171717'
 	red:     '0xd81765'
 	green:   '0x97d01a'
@@ -24,7 +23,6 @@ Dotfiles for various desktops I made
 	magenta: '0xff2491'
 	cyan:    '0x0fdcb6'
 	white:   '0xebebeb'
-    ```
-
+  ```
 </details>
 
